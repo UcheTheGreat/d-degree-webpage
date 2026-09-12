@@ -1,4 +1,3 @@
-# d-degree-webpage
 <!DOCTYPE html>
 <html lang="en">
 <head>
